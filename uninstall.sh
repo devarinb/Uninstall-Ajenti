@@ -40,4 +40,4 @@ if [ -f /etc/init/ajenti.conf ] ; then
     rm -fr /etc/ajenti /var/log/ajenti /sys/fs/cgroup/pids/system.slice/ajenti.service /sys/fs/cgroup/devices/system.slice/ajenti.service /sys/fs/cgroup/systemd/system.slice/ajenti.service 2>/dev/null
 fi
 
-echo ':: Ajenti Uninstalled.'
+echo ':: Ajenti Successfully Uninstalled.'
