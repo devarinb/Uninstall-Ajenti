@@ -17,7 +17,7 @@ Ensure Root Privileges: Make sure you have root (superuser) privileges to execut
 
 `sudo bash uninstall.sh`
 
-Install Dependencies (if needed): The script requires the lsb-release package to identify your distribution accurately. If the package is not already installed, the script will attempt to install it. However, if you encounter any issues during installation, you may need to install lsb-release manually.
+Install Dependencies (if needed): The script requires the `lsb-release` package to identify your distribution accurately. If the package is not already installed, the script will attempt to install it. However, if you encounter any issues during installation, you may need to install `lsb-release` manually.
 
 Review Output: During execution, the script will display the detected OS and distribution. It will then stop the Ajenti service, uninstall Ajenti plugins, and remove related files and configurations.
 
