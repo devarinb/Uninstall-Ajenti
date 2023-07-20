@@ -9,9 +9,9 @@ Follow these steps to use the `uninstall.sh` script:
 
 Download the Script: Download the `uninstall.sh` script from this repository to your server. You can use the following command to clone the repository:
 
-`git clone https://github.com/devarinb/uninstall-Ajenti.git.git`
+`git clone https://github.com/devarinb/Uninstall-Ajenti.git.git`
 
-`cd uninstall-Ajenti`
+`cd Uninstall-Ajenti`
 
 Ensure Root Privileges: Make sure you have root (superuser) privileges to execute the script. If you are not logged in as the root user, use the sudo command to run the script:
 
